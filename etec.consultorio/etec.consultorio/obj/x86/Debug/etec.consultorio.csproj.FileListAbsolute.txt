@@ -1,0 +1,23 @@
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\etec.consultorio\bin\Debug\etec.consultorio.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\etec.consultorio\bin\Debug\etec.consultorio.pdb
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\etec.consultorio\obj\x86\Debug\etec.consultorio.cadastro.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\etec.consultorio\obj\x86\Debug\etec.consultorio.Consultório.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\etec.consultorio\obj\x86\Debug\etec.consultorio.Properties.Resources.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\etec.consultorio\obj\x86\Debug\etec.consultorio.csproj.GenerateResource.Cache
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\etec.consultorio\obj\x86\Debug\etec.consultorio.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\etec.consultorio\obj\x86\Debug\etec.consultorio.pdb
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\etec.consultorio\obj\x86\Debug\etec.consultorio.Agendamento.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\etec.consultorio\obj\x86\Debug\etec.consultorio.Médico.resources
+C:\Users\Aluno_2\Desktop\etec.consultorio\etec.consultorio\obj\x86\Debug\etec.consultorio.exe
+C:\Users\Aluno_2\Desktop\etec.consultorio\etec.consultorio\obj\x86\Debug\etec.consultorio.pdb
+C:\Users\Aluno_2\Desktop\etec.consultorio\etec.consultorio\bin\Debug\etec.consultorio.exe
+C:\Users\Aluno_2\Desktop\etec.consultorio\etec.consultorio\bin\Debug\etec.consultorio.pdb
+C:\Users\Aluno_2\Desktop\etec.consultorio\etec.consultorio\obj\x86\Debug\etec.consultorio.Agendamento.resources
+C:\Users\Aluno_2\Desktop\etec.consultorio\etec.consultorio\obj\x86\Debug\etec.consultorio.cadastro.resources
+C:\Users\Aluno_2\Desktop\etec.consultorio\etec.consultorio\obj\x86\Debug\etec.consultorio.Consultório.resources
+C:\Users\Aluno_2\Desktop\etec.consultorio\etec.consultorio\obj\x86\Debug\etec.consultorio.Properties.Resources.resources
+C:\Users\Aluno_2\Desktop\etec.consultorio\etec.consultorio\obj\x86\Debug\etec.consultorio.csproj.GenerateResource.Cache
+C:\Users\Aluno_2\Desktop\etec.consultorio\etec.consultorio\obj\x86\Debug\etec.consultorio.Login.resources
+C:\Users\Aluno_2\Desktop\etec.consultorio\etec.consultorio\obj\x86\Debug\etec.consultorio.Medico.resources
+F:\C#\etec.consultorio\etec.consultorio\obj\x86\Debug\etec.consultorio.exe
+F:\C#\etec.consultorio\etec.consultorio\obj\x86\Debug\etec.consultorio.pdb
